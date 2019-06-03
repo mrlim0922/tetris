@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1432193972 source:f:\c++\tetris\main.cpp
+	"Tetris.h"
+	<time.h>
+
+1432103796 source:f:\c++\tetris\draw.cpp
+	"Draw.h"
+
+1432129721 f:\c++\tetris\draw.h
+	"console.h"
+
+1430833048 f:\c++\tetris\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1432202711 source:f:\c++\tetris\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432200174 f:\c++\tetris\data.h
+	"Draw.h"
+
+1432201021 source:f:\c++\tetris\tetris.cpp
+	"Tetris.h"
+
+1432183879 f:\c++\tetris\tetris.h
+	"Data.h"
+
+1432210311 source:c:\users\win\downloads\tetris\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432200176 c:\users\win\downloads\tetris\data.h
+	"Draw.h"
+
+1432209501 c:\users\win\downloads\tetris\draw.h
+	"console.h"
+
+1430833048 c:\users\win\downloads\tetris\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1432103798 source:c:\users\win\downloads\tetris\draw.cpp
+	"Draw.h"
+
+1432193974 source:c:\users\win\downloads\tetris\main.cpp
+	"Tetris.h"
+	<time.h>
+
+1432209908 c:\users\win\downloads\tetris\tetris.h
+	"Data.h"
+
+1432213065 source:c:\users\win\downloads\tetris\tetris.cpp
+	"Tetris.h"
+
+1432269288 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432200176 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\data.h
+	"Draw.h"
+
+1432209502 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\draw.h
+	"console.h"
+
+1430833048 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1432268196 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\draw.cpp
+	"Draw.h"
+
+1432193974 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\main.cpp
+	"Tetris.h"
+	<time.h>
+
+1432209910 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\tetris.h
+	"Data.h"
+
+1432267695 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris\tetris.cpp
+	"Tetris.h"
+
+1432287430 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432287462 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\data.h
+	"Draw.h"
+
+1432288283 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\draw.h
+	"console.h"
+
+1430833048 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1432288425 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\draw.cpp
+	"Draw.h"
+
+1432193974 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\main.cpp
+	"Tetris.h"
+	<time.h>
+
+1432287425 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\tetris.h
+	"Data.h"
+
+1432288283 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris1\tetris.cpp
+	"Tetris.h"
+
+1432350768 source:c:\users\win\downloads\tetris1\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432350696 c:\users\win\downloads\tetris1\data.h
+	"Draw.h"
+
+1432350696 c:\users\win\downloads\tetris1\draw.h
+	"console.h"
+
+1432344445 c:\users\win\downloads\tetris1\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1432346087 source:c:\users\win\downloads\tetris1\draw.cpp
+	"Draw.h"
+
+1432344445 source:c:\users\win\downloads\tetris1\main.cpp
+	"Tetris.h"
+
+1432344782 c:\users\win\downloads\tetris1\tetris.h
+	"Data.h"
+
+1432348874 source:c:\users\win\downloads\tetris1\tetris.cpp
+	"Tetris.h"
+
+1432364806 source:c:\users\administrator\desktop\tetris1\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432364777 c:\users\administrator\desktop\tetris1\data.h
+	"Draw.h"
+
+1432360911 c:\users\administrator\desktop\tetris1\draw.h
+	"console.h"
+
+1432344446 c:\users\administrator\desktop\tetris1\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1432344446 source:c:\users\administrator\desktop\tetris1\main.cpp
+	"Tetris.h"
+
+1432366056 c:\users\administrator\desktop\tetris1\tetris.h
+	"Data.h"
+
+1432367768 source:c:\users\administrator\desktop\tetris1\tetris.cpp
+	"Tetris.h"
+
+1432364329 source:c:\users\administrator\desktop\tetris1\draw.cpp
+	"Draw.h"
+
+1432372298 source:c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432372527 c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\data.h
+	"Draw.h"
+
+1432368994 c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\draw.h
+	"console.h"
+
+1432344446 c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1432344446 source:c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\main.cpp
+	"Tetris.h"
+
+1432366056 c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\tetris.h
+	"Data.h"
+
+1432367768 source:c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\tetris.cpp
+	"Tetris.h"
+
+1432368994 source:c:\users\administrator\desktop\ªı ∆˙¥ı\tetris2\draw.cpp
+	"Draw.h"
+
+1432388405 source:c:\users\win\downloads\tetris2\draw.cpp
+	"Draw.h"
+
+1432383427 c:\users\win\downloads\tetris2\draw.h
+	"console.h"
+
+1432344446 c:\users\win\downloads\tetris2\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1432344446 source:c:\users\win\downloads\tetris2\main.cpp
+	"Tetris.h"
+
+1432469998 c:\users\win\downloads\tetris2\tetris.h
+	"Data.h"
+
+1432477604 c:\users\win\downloads\tetris2\data.h
+	"Draw.h"
+
+1432477642 source:c:\users\win\downloads\tetris2\tetris.cpp
+	"Tetris.h"
+
+1432478655 source:c:\users\win\downloads\tetris2\data.cpp
+	<stdio.h>
+	"Data.h"
+
+1432388405 source:c:\users\win\downloads\tetris3\draw.cpp
+	"Draw.h"
+
+1432383427 c:\users\win\downloads\tetris3\draw.h
+	"console.h"
+
+1432344446 c:\users\win\downloads\tetris3\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1432344446 source:c:\users\win\downloads\tetris3\main.cpp
+	"Tetris.h"
+
+1432505834 c:\users\win\downloads\tetris3\tetris.h
+	"Board.h"
+	"Brick.h"
+
+1432477604 c:\users\win\downloads\tetris3\data.h
+	"Draw.h"
+
+1432506084 source:c:\users\win\downloads\tetris3\tetris.cpp
+	"Tetris.h"
+
+1432505810 source:c:\users\win\downloads\tetris3\brick.cpp
+	"Brick.h"
+
+1432505810 c:\users\win\downloads\tetris3\brick.h
+	"Draw.h"
+
+1432503252 source:c:\users\win\downloads\tetris3\data.cpp
+	"Data.h"
+
+1432506365 source:c:\users\win\downloads\tetris3\board.cpp
+	"Board.h"
+
+1432506071 c:\users\win\downloads\tetris3\board.h
+	"Draw.h"
+	"Brick.h"
+
+1432618094 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\board.cpp
+	"Board.h"
+
+1432618094 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\board.h
+	"Draw.h"
+	"Brick.h"
+
+1432383428 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\draw.h
+	"console.h"
+
+1432344446 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\console.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1432602179 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\brick.h
+	"Draw.h"
+
+1432616900 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\brick.cpp
+	"Brick.h"
+
+1432388406 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\draw.cpp
+	"Draw.h"
+
+1432344446 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\main.cpp
+	"Tetris.h"
+
+1432505836 c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\tetris.h
+	"Board.h"
+	"Brick.h"
+
+1432616028 source:c:\documents and settings\sweeteapc\πŸ≈¡ »≠∏È\tetris4 (2)\tetris.cpp
+	"Tetris.h"
+
